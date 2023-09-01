@@ -52,4 +52,9 @@ body {
   button:hover {
     background-color: #AAC7D8;
   }
-  
+  /* Estilos anteriores */
+
+.hidden {
+  display: none;
+  visibility: hidden;
+}
